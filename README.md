@@ -5,3 +5,4 @@ Additional text
 
 
 This will cause a conflict
+Adding something new
