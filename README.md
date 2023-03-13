@@ -4,4 +4,4 @@ This is a readme file
 Additional text
 
 
-The other conflict.
+This will cause a conflict
