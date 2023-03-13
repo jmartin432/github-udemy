@@ -4,5 +4,4 @@ This is a readme file
 Additional text
 
 
-This is stuff from the Updates branch
-
+This will cause a conflict
